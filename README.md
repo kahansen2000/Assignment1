@@ -12,11 +12,13 @@
 
 */
 
+
 Source files:
 
 Assignment1.cpp
 
 README.txt
+
 
 Sources:
 
@@ -27,6 +29,9 @@ http://www.cplusplus.com/reference/cmath/
 http://www.cplusplus.com/reference/string/string/
 
 http://www.lmpt.univ-tours.fr/~volkov/C++.pdf
+
+http://www.cplusplus.com/doc/tutorial/files/
+
 
 To run:
 
