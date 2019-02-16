@@ -1,10 +1,15 @@
 # Assignment1
 /*
 *Katherine Hansen
+
 *2326665
-*kahansen@chapman.edi
+
+*kahansen@chapman.edu
+
 *CPSC350-01
+
 *Assignment1
+
 */
 
 Source files:
